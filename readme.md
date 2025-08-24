@@ -9,9 +9,8 @@ Wenn wirklich ein igel in das igelhaus einzieht dann können wir ihn hiermit beo
 
 <br>Ein script auf einem beliebigen linux Rechner (hier ein Raspberry 2b+) holt sich die Bilder des ESP32 Cameramoduls und lädt sie regelmäßig zu einer Website.<br/>
 
-...
-igelcam.ringelberger.de
-...
+[IGELCAM](http://igelcam.ringelberger.de/ "IGELCAM.RINGELBERGER.DE") 
+
 
 
 
