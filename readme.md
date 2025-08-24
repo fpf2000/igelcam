@@ -2,20 +2,18 @@
 
 Wenn wirklich ein igel in das igelhaus einzieht dann können wir ihn hiermit beobachten
 
-![Die Anzeige](https://github.com/fpf2000/igelcam/blob/main/bilder/igelcam.PNG)
-<img src="https://github.com/fpf2000/igelcam/blob/main/bilder/igelcam.PNG" alt="Bildbeschreibung" width="100" height="100">
+<img align="center" width="300" src="https://github.com/fpf2000/igelcam/blob/main/bilder/igelcam.PNG" alt="front of esp32cam" />
 
 
 ### Kameratyp
 
 Kameramodul (ESP32-S3) von DFROBOT
 
+<img align="left" width="300" src="https://github.com/fpf2000/igelcam/blob/main/bilder/esp32CamS3Dfrobot_front.PNG" alt="front of esp32cam" />
 
-![Die Anzeige](https://github.com/fpf2000/igelcam/blob/main/bilder/esp32CamS3Dfrobot_front.PNG)
-<img align="right" width="300" src="https://github.com/fpf2000/igelcam/blob/main/bilder/esp32CamS3Dfrobot_front.PNG" alt="front of esp32cam" />
 
-![Die Anzeige](https://github.com/fpf2000/igelcam/blob/main/bilder/esp32CamS3Dfrobot_rear.PNG)
 <img align="right" width="300" src="https://github.com/fpf2000/igelcam/blob/main/bilder/esp32CamS3Dfrobot_rear.PNG" alt="rear of esp32cam" />
+
 
 ### Funktion
 
@@ -28,7 +26,8 @@ igelcam.ringelberger.de
 
 ### Das Igelhaus 
 
-![Die Anzeige](https://github.com/fpf2000/igelcam/blob/main/bilder/igelhaus.PNG)
+
+<img align="left" width="300" src="https://github.com/fpf2000/igelcam/blob/main/bilder/igelhaus.PNG" alt="front of esp32cam" />
 
 
-![Die Anzeige](https://github.com/fpf2000/igelcam/blob/main/bilder/igelhaus_open.PNG)
+<img align="right" width="300" src="https://github.com/fpf2000/igelcam/blob/main/bilder/igelhaus_open.PNG" alt="rear of esp32cam" />
