@@ -1,0 +1,31 @@
+# Eine Einface Webcam zur Igel beeobachtung
+
+Wenn wirklich ein igel in das igelhaus einziueht dann könen wir ihn hiermit beobachten
+
+![Die Anzeige](https://github.com/fpf2000/igelcam/blob/main/bilder/igelcam.PNG)
+
+
+### Cameratyp
+
+Cameramodul (ESP32-S3) von DFROBOT
+
+
+![Die Anzeige](https://github.com/fpf2000/igelcam/blob/main/bilder/esp32CamS3Dfrobot_front.PNG)
+
+![Die Anzeige](https://github.com/fpf2000/igelcam/blob/main/bilder/esp32CamS3Dfrobot_rear.PNG)
+
+### Funktion
+
+Ein script auf einem beliebigen linux rechner (hier ein Raspberry 2b+) holt sich die Bilder des ESP32 Cameramoduls und lädt sie regelmässig zu einer Website.
+
+...
+igelcam.ringelberger.de
+...
+
+
+### Das Igelhaus 
+
+![Die Anzeige](https://github.com/fpf2000/igelcam/blob/main/bilder/igelhaus.PNG)
+
+
+![Die Anzeige](https://github.com/fpf2000/igelcam/blob/main/bilder/igelhaus_open.PNG)
